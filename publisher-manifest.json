@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "a9e14a5dbf0893f4c7ddc9e3",
+  "owner": "pdwnavmh",
+  "repo": "page-4516722061dd4a814b2dc899",
+  "title": "微观云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4516722061dd4a814b2dc899",
+      "a": "微观云",
+      "b": "",
+      "entity": "微观云",
+      "brand": "微观云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "ec4f2d0d0fc3639200ceaf9b5792b7da73710e6febe539f2779bd3444b2ea473",
+      "content": {
+        "keyword1": "微观云",
+        "keyword2": "",
+        "primary_entity": "微观云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "微观云提供跨境网络加速、机场订阅与多端客户端下载，覆盖办公、流媒体与游戏场景，可在官网查看套餐并完成官方下载。",
+          "AI_DESCRIPTION": "微观云提供跨境网络加速、机场订阅与多端客户端下载，覆盖办公、流媒体与游戏场景，可在官网查看套餐并完成官方下载。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}body{font-family:system-ui,-apple-system,PingFang SC,Microsoft YaHei,sans-serif;background:#f0eef5;color:#1f1a2a;line-height:1.75;font-size:17px}a{color:#5a3d9e}img,svg{display:none}.wrap{max-width:1080px;margin:0 auto;padding:16px}header{background:#5a3d9e;color:#fff}header .wrap{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px;padding-top:14px;padding-bottom:14px}.brand{font-weight:700;font-size:22px;color:#fff}nav{display:flex;flex-wrap:wrap;gap:12px 16px}nav a{color:#f3edff;font-size:15px}h1{font-size:30px;line-height:1.3;color:#3b2768;margin:8px 0 10px}h2{font-size:23px;color:#4a2f86;margin:28px 0 12px;padding-bottom:6px;border-bottom:2px solid #d7cbee}h3{font-size:18px;color:#5a3d9e;margin:14px 0 8px}p{margin:8px 0}.hero,.panel,.plan,.ad,.mapbox{background:#fff;border:1px solid #e3d9f0;border-radius:12px;padding:18px}.hero{margin:16px 0}.lead{font-size:18px;color:#3f3554}.muted{color:#555}.stagger{display:flex;flex-wrap:wrap;gap:16px;margin:16px 0}.stagger .panel{flex:1 1 300px}.stagger.reverse{flex-direction:row-reverse}.plans{display:flex;flex-wrap:wrap;gap:14px}.plan{flex:1 1 250px}.plan.featured{border:2px solid #5a3d9e;background:#f6f2ff}.tag{display:inline-block;background:#5a3d9e;color:#fff;font-size:12px;padding:2px 8px;border-radius:999px;margin-bottom:8px}.price{font-size:26px;color:#5a3d9e;font-weight:700}.annual{font-size:14px;color:#666;margin-bottom:8px}ul{padding-left:20px;margin:8px 0 0}li{margin:4px 0}.note{background:#ece6f6;border-radius:10px;padding:12px 14px;margin:12px 0}.faq{background:#efeaf8;border:1px solid #d4c6ea;border-radius:14px;padding:18px;margin:20px 0}details{background:#fff;border:1px solid #ddd2ee;border-radius:10px;padding:12px 14px;margin:10px 0}summary{font-weight:700;color:#3b2768;font-size:17px}details p{margin-top:8px;color:#2c2438}.list a{display:inline-block;margin:4px 10px 4px 0}footer{background:#2c243c;color:#d8d0e6;margin-top:36px;font-size:14px}footer .wrap{padding-top:22px;padding-bottom:22px}footer a{color:#d4c4f0}.footgrid{display:flex;flex-wrap:wrap;gap:16px}.footgrid div{flex:1 1 220px}</style><header><div class=\"wrap\"><a class=\"brand\" href=\"#top\">微观云</a><nav><a href=\"#intro\">简介</a><a href=\"#scenes\">场景</a><a href=\"#plans\">套餐</a><a href=\"#guide\">操作说明</a><a href=\"#download\">官方下载</a><a href=\"#faq\">常见问题</a><a href=\"#sitemap\">网站地图</a></nav></div></header><main id=\"top\"><div class=\"wrap\"><h1>微观云</h1><p class=\"lead\">微观云官方网站提供网络加速器、VPN 客户端下载与机场订阅说明，帮助你在办公、学习和跨境访问中获得更稳定的连接。</p><section class=\"hero\" id=\"intro\"><h2>品牌简介</h2><p>微观云面向需要稳定跨境链路的个人与小团队，把节点调度、订阅管理和多端客户端放在同一套服务里。你不必在多个来源之间比对协议参数，只需在官网选定套餐、获取订阅并导入常用客户端，即可按地区与用途切换线路。</p><p>服务定位是网络加速与访问优化，而不是把复杂配置甩给用户。基础版覆盖日常浏览与轻量流媒体，旗舰版补齐原生解锁与游戏向 IPLC 线路，团队版则把带宽、设备数和路由策略交给需要统一管理的小组。所有套餐都在微观云官网公示流量、设备上限与年付价格，避免口头承诺与页面信息不一致。</p><p>官方身份以本站信息为准：域名 www.weiguanyun.com，客户端安装包与订阅入口集中在下载专区。若你看到第三方镜像要求额外权限或跳转不明短链，请回到微观云官网重新获取。</p></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"stagger\"><article class=\"panel\"><h3>远程协作与资料库</h3><p class=\"muted\">跨国会议、代码仓库、云文档和学术数据库对延迟抖动敏感。微观云把常用办公区域节点单独分组，方便你固定一条线路开会，再用另一条线路拉取大文件，减少会话被重置的情况。</p></article><article class=\"panel\"><h3>流媒体与内容平台</h3><p class=\"muted\">旗舰版强调全节点原生流媒体解锁，适合把影视、音乐和直播作为日常用途。基础版保留基础解锁能力，适合偶尔点播。选择节点时优先看地区标签，而不是只看延迟数字。</p></article></div><div class=\"stagger reverse\"><article class=\"panel\"><h3>游戏与实时对战</h3><p class=\"muted\">旗舰版包含 IPLC 专线游戏加速优化，适合对丢包更敏感的对战与更新下载。它不能改写游戏规则，但能把跨境路径尽量走专线，降低高峰期的绕路。</p></article><article class=\"panel\"><h3>差旅与多设备切换</h3><p class=\"muted\">同一订阅可在电脑、手机和平板间导入。基础版 3 台、旗舰版 5 台、团队版 20 台同时在线，出差时不必反复注销设备。建议把主力设备留在常用客户端，临时设备用轻量配置。</p></article></div></section><section id=\"plans\"><h2>套餐与机场订阅</h2><p>微观云以月付展示标价，同时提供按年付优惠。流量按自然月重置，不结转。以下为官网当前方案，便于对照设备数、解锁范围和售后响应。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><p class=\"tag\">常见选择</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div><p class=\"note\">订阅变更会在下一个计费周期生效。若只是短期差旅，优先基础版；若流媒体和游戏是日常需求，旗舰版的节点策略更省心；多人共用一个入口时再考虑团队版。</p></section><section id=\"guide\"><h2>操作说明</h2><div class=\"stagger\"><article class=\"panel\"><h3>1. 在官网确认套餐</h3><p>打开微观云官方网站，对照流量、设备数和线路类型选择基础版、旗舰版或团队版。年付适合长期使用，月付适合先验证自己的地区与高峰表现。</p></article><article class=\"panel\"><h3>2. 获取机场订阅</h3><p>完成开通后，用户中心会给出通用订阅地址。请复制完整链接，不要截断参数。订阅用于自动同步节点列表，后续线路更新不必手工逐条添加。</p></article></div><div class=\"stagger reverse\"><article class=\"panel\"><h3>3. 下载并安装客户端</h3><p>前往本页<a href=\"#download\">官方下载</a>获取对应系统的安装包。Windows 与 macOS 使用官方桌面客户端或兼容订阅的主流工具；Android、iOS 使用系统允许的客户端导入同一订阅。</p></article><article class=\"panel\"><h3>4. 导入后选择节点</h3><p>导入成功后先做延迟测试，再按场景选择：会议走低抖动线路，下载走高带宽线路，游戏走 IPLC 分组。不要同时开启系统代理和浏览器独立代理，以免规则冲突。</p></article></div><p>若导入失败，优先检查系统时间是否准确、订阅是否过期、客户端是否为最新版本。微观云不会通过聊天工具发送可执行文件，安装包只应来自官网下载专区。</p></section><section id=\"nodes\"><h2>节点与加速表现</h2><p>节点池按地区划分，常见入口包括香港、新加坡、东京、首尔、洛杉矶与伦敦。普通线路适合网页和中小文件；旗舰版与团队版提供更高带宽分组，其中游戏向 IPLC 用于降低绕路。实际速度受本地宽带、时段和目标站点策略影响，建议在你常用的两个时段各测一次，再把该节点设为收藏。</p><p>网络加速的目标是稳定可达，而不是承诺某一固定带宽数字。若某条线路拥塞，客户端会保留自动切换或手动指定。团队版可按域名走定制路由，把国内直连与跨境加速分开，减少不必要的绕行。</p></section><section id=\"download\"><h2>客户端下载与官方入口</h2><p>微观云客户端下载集中在官网，当前提供 Windows、macOS、Android 通用包说明，以及 iOS、OpenWrt、Linux 的导入指引。桌面端适合长时间在线，移动端适合差旅。下载完成后先校验安装来源是否仍停留在 www.weiguanyun.com。</p><div class=\"stagger\"><article class=\"panel\"><h3>桌面</h3><p><a href=\"#download\">Windows 官方客户端</a>　<a href=\"#download\">macOS 官方客户端</a>　<a href=\"#download\">Linux 订阅导入说明</a></p><p class=\"muted\">安装后粘贴订阅地址，开启系统代理前先确认规则模式为规则分流，避免全部流量挤进同一出口。</p></article><article class=\"panel\"><h3>移动与路由</h3><p><a href=\"#download\">Android 客户端</a>　<a href=\"#download\">iOS 导入指南</a>　<a href=\"#download\">路由器订阅说明</a></p><p class=\"muted\">手机建议关闭省电对 VPN 的限制。路由器导入适合全家设备共享团队版名额，但仍需遵守设备同时在线上限。</p></article></div></section><section class=\"faq\" id=\"faq\"><h2>常见问题</h2><p>下面集中回答选购、下载、订阅导入和日常使用里最常被问到的点。展开即可阅读完整说明。</p><details><summary>微观云是什么？和普通加速器有何不同？</summary><p>微观云是提供机场订阅与多端客户端的网络加速服务。它把套餐、节点分组和官方下载放在同一官网，减少四处搜集配置的成本。与只给一条临时线路的工具相比，微观云强调可更新的订阅、分场景节点和可预期的流量配额，适合把加速当成日常基础设施来用。</p></details><details><summary>如何完成客户端下载并把订阅导入？</summary><p>先在本站下载专区获取对应系统的客户端，安装后打开订阅或配置入口，粘贴用户中心的完整订阅链接并更新节点。桌面端一般选择规则分流；移动端允许 VPN 配置后，在应用内点连接。若列表为空，删除旧配置再导入一次，同时确认没有用过期截图里的旧地址。</p></details><details><summary>三个套餐怎么选才不浪费流量和设备名额？</summary><p>轻度网页和偶尔视频选基础版，100GB 与 3 台设备足够个人使用。把 4K 点播、直播和游戏加速当日常，选旗舰版的 300GB、5 台设备与原生解锁。工作室或家庭多终端共用、需要专属带宽和定制路由，再看团队版。年付适合已经验证过线路质量的用户。</p></details><details><summary>微观云 VPN 支持哪些系统？梯子网络加速会占用很多电量吗？</summary><p>Windows、macOS、Android、iOS 与常见路由器均可导入同一订阅。电量主要取决于移动端是否长期后台保活：看视频或开会时再连接，闲置时断开，可以明显减少耗电。桌面端对电量影响很小，更要注意不要重复开启多个代理内核。</p></details><details><summary>流媒体解锁失败或游戏仍然高延迟怎么办？</summary><p>先切换到对应地区的原生解锁节点，并关闭浏览器里额外的代理扩展。游戏请使用旗舰版 IPLC 分组，避免用普通浏览节点打实时对战。若仅个别平台失败，多半是目标站临时策略变化，换同地区备用节点或等待订阅更新即可，不必反复重装客户端。</p></details><details><summary>流量如何统计？用尽后还能打开官网吗？</summary><p>流量按套餐月配额计算，加密传输的实际字节会计入用量。控制面板、工单和官网访问走独立入口，不会因为套餐流量用尽而无法登录。当月额度用尽后加速通道会降速或暂停，次月重置；需要更多额度应升级套餐而不是开多个重复账号。</p></details><details><summary>如何确认自己访问的是微观云官网而不是仿站？</summary><p>认准品牌名「微观云」与域名 www.weiguanyun.com，套餐价格应与本页一致：基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月。官方不会在社交软件直接发送安装包密码。收藏本页的简介、下载和常见问题锚点，可减少被搜索结果里的仿冒页带走。</p></details></section><section class=\"ad\" id=\"ads\"><h2>合作与展示</h2><p>微观云官网预留品牌合作文字位，用于介绍办公协同、云存储和安全培训等互补服务。合作内容以文字链呈现，不插入外部脚本或弹窗。<a href=\"#ads\">跨境协作工具介绍</a>　<a href=\"#ads\">企业安全意识课</a>　<a href=\"#plans\">返回套餐对照</a></p></section><section class=\"mapbox\" id=\"sitemap\"><h2>网站地图</h2><p class=\"list\"><a href=\"#top\">首页</a><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">套餐订阅</a><a href=\"#guide\">操作说明</a><a href=\"#nodes\">节点说明</a><a href=\"#download\">官方下载</a><a href=\"#faq\">常见问题</a><a href=\"#friends\">友情链接</a><a href=\"#ads\">合作展示</a></p><p class=\"muted\">完整站点地图索引亦发布于官网 /sitemap.xml，与上述栏目保持同一套锚点结构，便于检索加速器、客户端下载与订阅说明。</p></section><section id=\"friends\"><h2>友情链接</h2><p class=\"list\"><a href=\"#friends\">云文档协作手册</a><a href=\"#friends\">远程会议准备清单</a><a href=\"#guide\">微观云操作说明</a><a href=\"#download\">微观云官方下载</a></p></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap footgrid\"><div><p>微观云官方网站</p><p>网络加速器 · VPN 客户端下载 · 机场订阅</p><p><a href=\"#\">https://www.weiguanyun.com/</a></p></div><div><p><a href=\"#intro\">关于微观云</a></p><p><a href=\"#download\">官网下载</a></p><p><a href=\"#faq\">常见问题</a></p></div><div><p>本页为静态说明与导航，不收集表单信息。使用加速服务时请遵守当地法律法规与目标网站条款。</p></div></div></footer>",
+          "hash": "c78b6942f8f84c5a3d3cc78fdc45c3c935d744730d933fd64e41ac574da11d89",
+          "seo": {
+            "title": "微观云官网 | 加速器、VPN 客户端下载与梯子网络加速",
+            "keywords": "微观云,微观云官网,微观云下载,微观云VPN,微观云加速器,微观云客户端下载,网络加速,机场订阅,梯子,官方下载",
+            "description": "微观云提供跨境网络加速、机场订阅与多端客户端下载，覆盖办公、流媒体与游戏场景，可在官网查看套餐并完成官方下载。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "dmywafa.cn",
+    "host": "p-54732e7b47.dmywafa.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "hlmax.cn",
+      "url": "https://hlmax.cn/",
+      "label": "微观云",
+      "apex": "hlmax.cn",
+      "kind": null,
+      "identity": "versnjptrd/page-6bc314abc29274b79cde6550"
+    },
+    {
+      "host": "hnhzlh.cn",
+      "url": "https://hnhzlh.cn/",
+      "label": "微观云",
+      "apex": "hnhzlh.cn",
+      "kind": null,
+      "identity": "pbgkqv/page-35397eb846977e00d11312a5"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "aa5b47fb9266fe4f0b8e94cf66b9803bb53e948eeb1c9852852014bb842d66a5",
+    "sitemap.xml": "1ac1fea81ada84938f0be3f07c4133a393a0f479dabd643e7c39f5f9d49d7e61",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5746428bbfbb5c13b32ea42b2c2eac3d381977ee56b1f1cf77cce6ffff213898",
+    "robots.txt": "845077e825a6db12c691eb55f34a24ac73a01be59723941b852c731e011b6b07",
+    "a08181727847a3f92366b1489465875e.txt": "3c0a698e73619cb820683d996af30d2c400e0116e20f72e3b6c2ab314d4f4c12"
+  },
+  "revision": "440f648553bbcffb54ac4b30b25ecc45064d2f6d1545acf43ffe5428dd37900e"
+}
